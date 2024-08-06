@@ -24,7 +24,7 @@ Before running the script, ensure that you have the following prerequisites inst
 
 2. Navigate to the cloned directory:
    ```bash
-   cd Ore
+   cd Ore-mining
    ```
 
 3. Run the setup script:
