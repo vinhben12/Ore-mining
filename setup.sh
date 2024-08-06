@@ -142,4 +142,4 @@ chmod +x ore.sh
 ./ore.sh
 
 echo "Mining process started. Check ore.sh for details."
-echo "Subscribe: https://t.me/HappyCuanAirdrop"
+echo "keo nit dung lam"
