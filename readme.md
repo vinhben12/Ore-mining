@@ -1,9 +1,5 @@
 # Ore
 
-## Overview
-
-This repository contains a script for setting up and running the Ore mining process. Ore is a cryptocurrency mining tool built for the Solana blockchain. The script automates the setup process and initiates the mining process once configured.
-
 ## Prerequisites
 
 Before running the script, ensure that you have the following prerequisites installed:
